@@ -25,7 +25,7 @@ Soy un desarrollador de software apasionado con experiencia en una variedad de t
 
 ## Mis proyectos
 
-- [Proyecto 1](https://github.com/tu-usuario/proyecto-1) - Descripción breve del proyecto 1
+- [Proyecto 1](https://github.com/tu-usuario/proyecto-1) - App para gestionar ligas de fútbol amateur de forma sencilla y eficaz.
 
 ## Habilidades
 
