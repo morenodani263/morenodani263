@@ -10,6 +10,7 @@ Soy un desarrollador de software apasionado con experiencia en una variedad de t
 - **Lenguajes**:
   - Java
   - C#
+  - Kotlin
 - **Frameworks y plataformas**:
   - Spring Boot
   - .NET
@@ -29,7 +30,7 @@ Soy un desarrollador de software apasionado con experiencia en una variedad de t
 
 ## Habilidades
 
-- **Lenguajes**: Java, C#, HTML, CSS
+- **Lenguajes**: Java, C#, Kotlin, HTML, CSS
 - **Frameworks y plataformas**: SpringBoot, .NET, Android
 - **Actualmente aprendiendo**: Angular
 
